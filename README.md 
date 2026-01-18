@@ -1,0 +1,30 @@
+# Burger Ordering System 🍔
+
+A simple Java console application that simulates a burger ordering system.
+
+## Features
+- Create regular and deluxe burgers
+- Add multiple toppings
+- Calculate total meal price
+- Itemized order printing
+
+## OOP Concepts Used
+- Encapsulation
+- Inheritance
+- Polymorphism
+- Method overriding
+
+## Project Structure
+- Item – base class for menu items
+- Burger – extends Item
+- DeluxeBurger – special burger with free toppings
+- MealOrder – manages a full meal
+- Main – application entry point
+
+## How to Run
+1. Open the project in IntelliJ IDEA
+2. Run `Main.java`
+3. View output in the console
+
+## Author
+Rayan Dahdooly
